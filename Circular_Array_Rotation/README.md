@@ -1,9 +1,9 @@
 # [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation)
 
-**By [darkshadows](https://www.hackerrank.com/darkshadows) **
+**By [darkshadows](https://www.hackerrank.com/darkshadows)**    
 **Algorithms > Warmup**
 
-John Watson performs an operation called a *right circular rotation* on an array of integers, *(a<sub>0</sub>, a<sub>1</sub>, a<sub>2</sub>, ... , a<sub>n-1</sub>)*. After performing one right circular rotation operation, the array is transformed to *(a<sub>n-1</sub>), a<sub>0</sub>, a<sub>1</sub>, ... , a<sub>n-2</sub>)*.
+John Watson performs an operation called a *right circular rotation* on an array of integers, *(a<sub>0</sub>, a<sub>1</sub>, a<sub>2</sub>, ... , a<sub>n-1</sub>)*. After performing one right circular rotation operation, the array is transformed to *(a<sub>n-1</sub>, a<sub>0</sub>, a<sub>1</sub>, ... , a<sub>n-2</sub>)*.
 
 Watson performs this operation *k* times. To test Sherlock's ability to identify the current element at a particular position in the rotated array, Watson asks *q* queries, where each query consists of a single integer, *m* , for which you must print the element at index *m* in the rotated array (*a<sub>m</sub>*).
 
