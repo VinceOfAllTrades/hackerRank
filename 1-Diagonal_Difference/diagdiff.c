@@ -15,7 +15,7 @@ int main(){
           scanf("%d",&a[a_i][a_j]);
        }
        //Rather than make a new loop, let's sum here. 
-       sum+=a[a_i][a_i]                    //+tl;br diagonal elements   
+       sum+=a[a_i][a_i];                   //+tl;br diagonal elements   
        sum-=a[a_i][(n-1)-a_i];             //-tr;bl diagonal elements
     }
     printf("%d\n",abs(sum));
