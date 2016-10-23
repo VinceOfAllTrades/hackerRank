@@ -1,6 +1,7 @@
 # [Diagonal Difference](https://www.hackerrank.com/contests/master/challenges/diagonal-difference)
 
-Algorithms > Warmup
+**By [vatsalchanana](https://www.hackerrank.com/vatsalchanana)**    
+**Algorithms > Warmup**
 
 Given a square matrix of size *N x N*, calculate the absolute difference between the sums of its diagonals.
 
