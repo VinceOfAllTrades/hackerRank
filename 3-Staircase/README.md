@@ -1,5 +1,5 @@
 # [Staircase](https://www.hackerrank.com/contests/master/challenges/staircase)
-By [vatsalchanana](https://www.hackerrank.com/vatsalchanana)
+### By [vatsalchanana](https://www.hackerrank.com/vatsalchanana)
 
 Algorithms > Warmup
 
