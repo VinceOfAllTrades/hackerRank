@@ -1,6 +1,6 @@
 # [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant)
 
-**By [Shafaet](https://www.hackerrank.com/shafaet)**
+**By [Shafaet](https://www.hackerrank.com/shafaet)**    
 **Algorithms > Implementation**
 
 John's clothing store has a pile of *n* loose socks where each sock *i* is labeled with an integer, *c<sub>i</sub>*, denoting its color. He wants to sell as many socks as possible, but his customers will only buy them in matching pairs. Two socks, *i* and *j*, are a single matching pair if *c<sub>i</sub> = c<sub>j</sub>*.
